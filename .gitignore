@@ -29,8 +29,6 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
 
 # Executables
 *.exe
@@ -39,3 +37,7 @@
 
 # debug information files
 *.dwo
+
+/build
+/bin
+/lib
